@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mss
+pynput
+google-generativeai
+python-dotenv 
