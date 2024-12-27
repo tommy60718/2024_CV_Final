@@ -1,5 +1,3 @@
-Here’s an updated version of the README file reflecting the changes and new features introduced in the updated code:
-
 ---
 
 # AI Drone Controller
