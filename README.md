@@ -69,7 +69,7 @@ See LICENSE file for details.
 1. Start the simulator and position it on the primary monitor.
 2. Run the script:
    ```bash
-   python main.py
+   python main_v2.py
    ```
 3. Enter high-level commands when prompted (e.g., `"fly to the yellow house"`).
 4. Monitor console logs for scene descriptions, detected objects, and actions.
