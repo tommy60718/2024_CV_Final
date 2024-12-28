@@ -27,7 +27,7 @@ See LICENSE file for details.
 
 - Python 3.8+
 - Google Gemini API key
-- [The Drone Racing League Simulator](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/) (available on Steam)
+- Drone Simulator
 - Pre-trained YOLOv8 model weights
 - Depth-Anything (DINOv2) setup
 
